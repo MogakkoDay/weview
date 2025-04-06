@@ -1,5 +1,5 @@
-import { ArrowDownIcon, ChevronDownIcon } from "@radix-ui/react-icons";
-import Link from "next/link";
+import { ArrowDownIcon, ChevronDownIcon } from '@radix-ui/react-icons'
+import Link from 'next/link'
 
 export default function MonoPage() {
   return (
@@ -227,5 +227,5 @@ export default function MonoPage() {
         </main>
       </div>
     </div>
-  );
+  )
 }
